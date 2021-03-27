@@ -1,0 +1,30 @@
+.about .card {
+    background: #1d3557;
+    color: #a8dadc !important;
+    border-radius: 30px;
+    padding: 1rem;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.about .card h1 {
+    font-size: 40px;
+    font-weight: 900;
+    padding: 1rem 0;
+    color: #a8dadc !important;
+}
+
+.about .card p {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1rem 0;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+}
+
+
+
+
+@media only screen and (max-width:900px){
+    .about h1 {
+        font-size: 32px !important;
+    }
+}

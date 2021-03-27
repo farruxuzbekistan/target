@@ -1,0 +1,32 @@
+.abitur .card {
+    background: #1d3557;
+    color: #a8dadc !important;
+    border-radius: 30px;
+    padding: 1rem;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.abitur .card h1 {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+    padding: 1rem 0;
+    color: #a8dadc !important;
+}
+
+.abitur .card p {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1rem 0;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+
+
+
+@media only screen and (max-width:900px){
+    .abitur h1 {
+        font-size: 25px !important;
+    }
+}

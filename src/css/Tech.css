@@ -1,0 +1,22 @@
+
+
+
+.tech h1 {
+    font-weight: 900;
+    font-size: 45px;
+}
+
+.tech .card {
+     border-radius: 7px !important;
+     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.tech .card img {
+    border-radius: 7px !important;
+}
+
+@media only screen and (max-width:900px){
+    .tech h1 {
+        font-size: 32px;
+    }
+}

@@ -1,0 +1,16 @@
+.why  {
+  padding: 4rem 0;
+}
+
+.why h1 {
+    font-size: 45px;
+    font-weight: 900;
+    color: #1d3557;
+    padding-bottom: 4rem;
+}
+
+@media only screen and (max-width:900px){
+  .why h1 {
+    font-size: 32px;
+  }
+}

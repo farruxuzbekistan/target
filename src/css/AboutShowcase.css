@@ -1,0 +1,23 @@
+.aboutshowcase .row {
+    min-height: 120vh;
+}
+
+.aboutshowcase  {
+    color: #fff;
+}
+
+.aboutshowcase p {
+    line-height: 1.7;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    color: #f4f4f4;
+    font-weight: 500;
+    
+}
+
+.aboutshowcase h1 {
+    font-weight: 900;
+    font-size: 45px;
+    color: #a8dadc;
+}
+
